@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mayank-Bankoti.
 - 👀 I’m passionate for Embedded Software
-- 🌱 I’m currently learning Embedded C, Python, Web Scrapping
+- 🌱 I’m currently learning Embedded C,Python, Microntroller like AVR, PIC and ARM 
 - 💞️ I’m looking to collaborate on projects/internships
 - 📫 How to reach me mayankbankoti4@gmail.com
