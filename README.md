@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mayank-Bankoti
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, Machine Learning, Web Scrapping
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me mayankbankoti20@gmail.com
+- 👋 Hi, I’m @Mayank-Bankoti.
+- 👀 I’m passionate for Embedded Software
+- 🌱 I’m currently learning Embedded C, Python, Web Scrapping
+- 💞️ I’m looking to collaborate on projects/internships
+- 📫 How to reach me mayankbankoti4@gmail.com
