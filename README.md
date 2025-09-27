@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mayank-Bankoti.
 - 👀 I’m passionate for Software Development
-- 🌱 I have experience in C, C# and Python programming languages, I have worked on Microntroller like AVR, PIC, ARM, LPC2148, Renesas and STM32  
+- 🌱 I have experience in C, C# and Python programming languages
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me mayankbankoti4@gmail.com
